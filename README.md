@@ -14,6 +14,10 @@ Acá se encuentran todos los materiales de la presentación a excepción de la p
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+- [Code Bullet on Youtube](https://www.youtube.com/c/CodeBullet)
+
+- [OpenAI on Youtube](https://www.youtube.com/c/openai)
+
 
 ## Fuentes
 
