@@ -23,4 +23,6 @@ Los notebooks en los folders de `/Regresión` y `/Clasificación` contienen cont
 
 - [Artículo de forecasting usando random forests en python de Will Koehrsen para Towards Data Science](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
+- [Notebook de Thiago Vieira en Kaggle con un ejemplo de un Random Forest sencillo utilizando el Iris dataset](https://www.kaggle.com/tcvieira/simple-random-forest-iris-dataset)
+
 La referencia original de cada notebook se encuentra justo debajo del título del mismo para c/u.
